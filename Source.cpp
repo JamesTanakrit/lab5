@@ -1,4 +1,3 @@
-//64011131 ธนกฤต ธรรมภาณพินิจ
 #include<stdio.h>
 #include<Windows.h>
 #include<conio.h>
