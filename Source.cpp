@@ -51,7 +51,7 @@ int main()
 			}
 			fflush(stdin);
 		}
-		Sleep(10);
+		Sleep(500);
 	} 
 	while (ch != 'x');
 	return 0;
